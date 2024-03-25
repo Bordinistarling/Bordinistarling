@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm 48, live in Rio de Janeiro, Brazil and starting a new journey learning rust and kotlin and another knowledges.
+I'm Luiz, live in Rio de Janeiro, Brazil and starting a new journey learning rust and kotlin and another knowledges.
 
 
 
